@@ -4,7 +4,7 @@
   <title><![CDATA[Visttux Blog]]></title>
   <link href="http://visttux.github.io/atom.xml" rel="self"/>
   <link href="http://visttux.github.io/"/>
-  <updated>2015-01-29T20:42:27+01:00</updated>
+  <updated>2015-01-29T23:17:57+01:00</updated>
   <id>http://visttux.github.io/</id>
   <author>
     <name><![CDATA[Visttux]]></name>
@@ -14,11 +14,35 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The Making of a New Era Developer]]></title>
+    <title type="html"><![CDATA[¿Por Qué?]]></title>
     <link href="http://visttux.github.io/blog/2015/01/29/the-making-of-a-new-era-developer/"/>
     <updated>2015-01-29T19:13:24+01:00</updated>
     <id>http://visttux.github.io/blog/2015/01/29/the-making-of-a-new-era-developer</id>
-    <content type="html"><![CDATA[<p>test test test</p>
+    <content type="html"><![CDATA[<p><em>pero&hellip;visttux&hellip;¿para que haces este blog?</em></p>
+
+<p>La idea del nacimiento del blog es documentar el proceso de creación de un desarrollador preparado para la nueva era. Para ello iré escribiendo entradas sobre mis avances en conceptos importantes hoy en día para un desarrollador, esperando que puedan ser utiles para la gente que como yo se vea perdida con tanta información poblando la red de redes.</p>
+
+<p>A continuación listo algunos de conceptos interesantes para estudiar y aplicar:</p>
+
+<ul>
+<li><strong>Integración continua</strong>, o como sacar nuevas features en tu producto antes que el resto.</li>
+<li><strong>GIT y GitFlow</strong>, modelo de branching ideal para trabajar con productos que requieran de integración continua, utilizando el sistema de control de versiones con mejor salud.</li>
+<li><strong>S.O.L.I.D</strong>, un conjunto de buenas prácticas para el diseño de software en la programación orientada a objetos.</li>
+<li><strong>TDD y testing en general</strong>, elemento importante que muchos pasamos por alto y subestimamos más de lo que deberiamos.</li>
+</ul>
+
+
+<p>Todos estos puntos se estudiaran bajo el punto de vista de alguien interesado en programar aplicaciones para dispositivos móviles, intentando aplicar las diferentes herramientas en algun proyecto de ejemplo alojado en <a href="http://github.com/">GitHub</a>.</p>
+
+<h2>Tareas</h2>
+
+<p>A continuación muestro algunas de las tareas asignadas para ir creciendo en &ldquo;skills&rdquo; como desarrollador, añadidas en un proyecto de <a href="http://redbooth.com/">RedBooth</a>. Para el que no conozca la plataforma, RedBooth ofrece un conjunto de herramientas colaborativas perfectas para asignar tareas y llevar a cabo proyectos.</p>
+
+<p><img src="http://visttux.github.io/images/Redbooth1.png" title="Tareas en Redbooth" alt="images"></p>
+
+<p>Como podemos ver, las dos primeras tareas de hoy habrán sido cumplidas en el momento en el que este post sea subido al repositorio.</p>
+
+<p>Si alguien esta interesado en crear un blog como este, teneis toda la información necesaria <a href="http://octopress.org/docs/setup/">aquí</a>, y si (como yo) teneis problemas con la versión de RubyGems a la hora de instalar rake, podreis encontrar la solución <a href="https://gist.github.com/luislavena/f064211759ee0f806c88">aquí</a>.</p>
 ]]></content>
   </entry>
   
