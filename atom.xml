@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Visttux Blog]]></title>
+  <link href="http://visttux.github.io/atom.xml" rel="self"/>
+  <link href="http://visttux.github.io/"/>
+  <updated>2015-01-29T20:42:27+01:00</updated>
+  <id>http://visttux.github.io/</id>
+  <author>
+    <name><![CDATA[Visttux]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The Making of a New Era Developer]]></title>
+    <link href="http://visttux.github.io/blog/2015/01/29/the-making-of-a-new-era-developer/"/>
+    <updated>2015-01-29T19:13:24+01:00</updated>
+    <id>http://visttux.github.io/blog/2015/01/29/the-making-of-a-new-era-developer</id>
+    <content type="html"><![CDATA[<p>test test test</p>
+]]></content>
+  </entry>
+  
+</feed>
